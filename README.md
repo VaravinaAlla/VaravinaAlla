@@ -1,6 +1,6 @@
 <div id ='header' align='center'>
 <h1>Hi there 👋🏻, I'm Alla</h1>
-<h3>QA Manual Engineer from Madrid</h3>
+<h3>QA Engineer from Madrid</h3>
 </div>
 <div id='social' align='center'>
 <a href='https://www.codewars.com/users/Fistawka'>
@@ -17,11 +17,12 @@
 ### About me
 QA Engineer with 3+ years of experience working with web and mobile applications using both back-end (API, DB) and front-end (GUI, functional) testing methods.
 A goal-oriented with analytical thinking, able to pick up new skills, and technologies quickly. 
+
 I've finished the Java and JavaScript/TypeScript Automation testing courses and I'm looking for an opportunity to be Junior QA Automation.
 
 ### 🛠️ Technical Skill
 - Manual testing: Functional, UI, Regression, Usability, Cross-browser testing, Smoke, API, Integration, Exploratory, Web&Mobile testing;
-- Creation test documentation (checklists, test cases, bug reports);
+- Creation of test documentation (checklists, test cases, bug reports);
 - API/UI Automation testing.
 
 ### ⚙️ Languages and tools:
