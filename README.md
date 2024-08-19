@@ -20,14 +20,11 @@ A goal-oriented with analytical thinking, able to pick up new skills, and techno
 I've finished the Java and JavaScript/TypeScript Automation testing courses and I'm looking for an opportunity to be Junior QA Automation.
 </div>
 ### 🛠️ Technical Skill
-* Manual testing: Functional, UI, Regression, Usability, Cross-browser testing, Smoke, API, Integration, Exploratory, Web&Mobile testing;
-* Creation test documentation (checklists, test cases, bug reports);
-* API/UI Automation testing;
+- Manual testing: Functional, UI, Regression, Usability, Cross-browser testing, Smoke, API, Integration, Exploratory, Web&Mobile testing;
+- Creation test documentation (checklists, test cases, bug reports);
+- API/UI Automation testing;
 ###⚙️ Languages and tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width='40', height='40' />&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width='40', height='40' />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width='40', height='40' />&nbsp;  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width='40', height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width='40', height='40' />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width='40', height='40' />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width='40', height='40' />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width='40', height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg"  width='40', height='40' />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg"  width='40', height='40' />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg"  width='40', height='40' />&nbsp;      
