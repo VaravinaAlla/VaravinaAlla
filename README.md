@@ -1,6 +1,6 @@
 <div id ='header' align='center'>
 <h1>Hi there 👋🏻, I'm Alla</h1>
-<h3>QA Engineer from Madrid</h3>
+<h3>QA Engineer from Ukraine and living in Madrid</h3>
 </div>
 <div id='social' align='center'>
 <a href='https://www.codewars.com/users/Fistawka'>
