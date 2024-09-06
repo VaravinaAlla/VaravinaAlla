@@ -15,7 +15,7 @@
 </div>
 
 ### About me
-QA Engineer with 3+ years of experience working with web and mobile applications using both back-end (API, DB) and front-end (GUI, functional) testing methods.
+ISTQB Certified QA Engineer with 3+ years of experience working with web and mobile applications using back-end (API, DB) and front-end (GUI, functional) testing methods.
 A goal-oriented with analytical thinking, able to pick up new skills, and technologies quickly. 
 
 I've finished the Java and JavaScript/TypeScript Automation testing courses and I'm looking for an opportunity to be Junior QA Automation.
