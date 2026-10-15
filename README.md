@@ -15,15 +15,20 @@
 </div>
 
 ### About me
- Detail-oriented ISTQB Certified QA Engineer with 5+ years of experience in manual testing of web and mobile applications (backend and frontend). Skilled in creating test documentation, executing various testing types, and improving overall product quality. Experienced with Agile methodologies, API testing, and bug tracking. I have also worked with AI-related features.
- Basic experience in test automation, including writing and maintaining test cases within existing frameworks to support regression testing.
- I have strong analytical skills and attention to detail, which help me quickly understand new systems and business logic.
+  Detail-oriented ISTQB Certified QA Engineer with 5+ years of experience in manual testing of web and mobile applications (backend and frontend). Skilled in creating test documentation, executing various testing types, and improving overall product quality. Experienced with Agile methodologies, API testing, and bug tracking. I have also worked with AI-related features.
+  
+  Basic experience in test automation, including writing and maintaining test cases within existing frameworks to support regression testing.
+  
+  I have strong analytical skills and attention to detail, which help me quickly understand new systems and business logic.
 Passionate about learning new tools and technologies to enhance QA processes.
 
 ### 🛠️ Technical Skill
 **Testing Types:** Functional, UI, Regression, Smoke, Exploratory, E2E, Cross-browser, Mobile, API, Integration, Localization, Usability, E2E automation
+
 **Tools:** Jira, Zephyr, Sentry, Cursor, Confluence, Postman, Swagger, BrowserStack, Charles, DevTools, Jenkins, Docker, GitHub
+
 **Technologies:** SQL, REST API, Selenium + Java, Cypress, DBeaver, PostgreSQL, Android Studio, SSH
+
 **Methodologies:** Agile, Scrum, Kanban
 
 ### ⚙️ Languages and tools:
