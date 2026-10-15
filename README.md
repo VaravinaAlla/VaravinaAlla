@@ -26,6 +26,7 @@ Passionate about learning new tools and technologies to enhance QA processes.
 **Technologies:** SQL, REST API, Selenium + Java, Cypress, DBeaver, PostgreSQL, Android Studio, SSH;<br>
 **Methodologies:** Agile, Scrum, Kanban
 
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width='40', height='40' />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width='40', height='40' />&nbsp;
