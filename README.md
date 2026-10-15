@@ -24,7 +24,7 @@ Passionate about learning new tools and technologies to enhance QA processes.
 **Testing Types:** Functional, UI, Regression, Smoke, Exploratory, E2E, Cross-browser, Mobile, API, Integration, Localization, Usability, E2E automation;<br>
 **Tools:** Jira, Zephyr, Sentry, Cursor, Confluence, Postman, Swagger, BrowserStack, Charles, DevTools, Jenkins, Docker, GitHub;<br>
 **Technologies:** SQL, REST API, Selenium + Java, Cypress, DBeaver, PostgreSQL, Android Studio, SSH;<br>
-**Methodologies:** Agile, Scrum, Kanban
+**Methodologies:** Agile, Scrum, Kanban <br>
 
 
 <div>
